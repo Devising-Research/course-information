@@ -144,3 +144,12 @@ tags
 
 # gradle files
  .gradle
+
+# Sqlite3
+# #######
+.sqlite_history
+
+# System
+# ######
+.bash_history
+.viminfo
