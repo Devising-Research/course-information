@@ -45,7 +45,7 @@ Students learn to begin and complete an academic research project. In this task,
 
 Throughout the semester students will be exposed to famous dilemmas in technology which will arrive with discussions to encourage positive thinking in ethics. For example, the course will introduce students to ethically inclined concepts in the generation of technology. Such terms include liability, ethics, responsibility, privacy, information governance, data security and others.
 
-## Suggested TextBooks
+## TextBooks
 
 * Wickham, Hadley, and Garrett Grolemund. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data., O'Reilly Media, Inc., 2016.
 
