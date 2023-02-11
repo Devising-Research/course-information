@@ -4,22 +4,12 @@ This repository contains information about Data Analysis, including the course o
 
 # Content
 
-- [SCHEDULE](#Schedule)
-- [Instructor](#Instructor)
-- [Meeting Times](#Meeting-times)
-- [Discord](#Discord)
-- [Course Calendar](#Calendar)
-- [`classDocs/`](#Classdocs)
-- [Deliverable](#Course-Deliverable)
-- [Course Description](#Course-Description)
-- [Distribution Requirements](#Distribution-Requirements)
-- [Suggested Textbooks](#Suggested-Textbooks)
-- [Course Policies](#Course-Policies)
-- [Grading](#grading)
-- [Assignment Submissions](#Assignment-Submissions)
-- [Gradebook Repository](#Gradebook-Repository)
-- [Assistance](#Assistance)
-- [Schedule](#Schedule)
+- [Instructor](#instructor)
+- [Course Description](#course-description)
+- [Course Objectives](#course-objectives)
+- [Textbooks](#textbooks)
+- [Policies](#policies)
+- [Schedule](#schedule)
 
 ## Instructor
 
@@ -30,34 +20,6 @@ Office Location: Alden Hall 105
 Email: obonhamcarter@allegheny.edu
 
 [Office Hours](https://www.oliverbonhamcarter.com/contactandabout/)
-
-## Meeting Times
-
-|Session | Day      | Time             | Location
-|:------ | :------- | :--------------- | :---------
-|Class   | Tuesday  | 9:30am - 10:45am | Alden 101
-|Class   | Thursday | 9:30am - 10:45am | Alden 101
-|Lab     | Monday   | 2:30pm - 4:20pm  | Alden 101
-
-### Discord
-
-If you are already on the department's Discord server, then you will be given access to the course's Discord channel, called `#data-analytics`. If not, then you will need to join the department's Discord server before you can be added to the course's channel.
-
-### Calendar
-
-[Course Calendar Link](https://calendar.google.com/calendar/u/0?cid=Y19hNTg4ZDZiYjQzZDUxYWNiMTJhZjhjMDZhOGVjMWQwOGQyZDQ4YmQ3NDNmNWQ5ZTE0YmFmNzMwYmM3ZDc3NGIzQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20)
-
-<!-- 
-<iframe src="https://calendar.google.com/calendar/embed?src=c_a588d6bb43d51acb12af8c06a8ec1d08d2d48bd743f5d9e14baf730bc7d774b3%40group.calendar.google.com&ctz=America%2FNew_York" style="border: 0" width="800" height="600" frameborder="0" scrolling="no"></iframe> -->
-
-## `classDocs/`
-All materials given out in class will be accessible using the `classDocs/` repository. Note: The HTTP link works in absence of SSH keys.
-Main site on GitHub: [ClassDocs/](https://github.com/CMPSC-580-Allegheny-College-Spring-2023/classDocs)
-
-## Course Deliverable
-<!-- https://sites.allegheny.edu/registrar/spring-2023-final-exam-schedule/ -->
- * Exam code "D"
- * Due: 5th May 2023, 9:00am
 
 ## Course Description
 Credits: 4
@@ -93,7 +55,7 @@ Throughout the semester students will be exposed to famous dilemmas in technolog
 
   + [Book Website](https://www.tidytextmining.com/)
 
-#### Other Useful Textbooks:
+### Other Useful Textbooks:
 
 * BUGS in Writing: A Guide to Debugging Your Prose (Second Edition). Lyn Dupr\'e. Addison-Wesley Professional. ISBN-10: 020137921X and ISBN-13: 978-0201379211, 704 pages, 1998. References to the textbook are abbreviated as "BIW".
 
@@ -159,10 +121,6 @@ Various digital channels will be used in this course for communication, includin
 
 Additionally, the course website will be used to store the syllabus, course schedule and information about the `classDocs/` repository using the GitHub.  Your grades will be communicated to you by a Gradebook GitHub repository.
 
-### Gradebook Repository
-
-* [Gradebook Repository](https://classroom.github.com/a/YQZCHw1t)
-
 ### Bring your own computer to class
 
 The classrooms in the Department of Computer Science no longer provide machines for student use. You are to bring your own wifi-ready device to class to be able to follow along with course material. If the class is meeting online using Zoom, then please be sure that you machine is configured correctly to use these services to connect you to the class. As it is your responsibility to maintain your machine, please perform online research to determine how to configure your machine accordingly, or to install any necessary software to enable online meetings.
@@ -194,7 +152,7 @@ More information about the code may be found at the [Maytum Center for Student S
 
 Types of computer hardware and software are everywhere! Conducting research in computer science is a challenging and rewarding activity that leads to the production of hardware, software, and scientific insights that have the potential to positively influence the lives of many people.  As you learn more about research methods in computer science you will also enhance your ability to effectively write and speak about a wide range of topics in computer science. I ask that you bring your best effort and highest enthusiasm as you pursue research in computer science this semester.
 
-### Schedule
+## Schedule
 
 Below is a schedule of covered topics as we cover them, along with their associated activities.
 
