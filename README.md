@@ -61,7 +61,7 @@ Throughout the semester students will be exposed to famous dilemmas in technolog
 
 * Writing for Computer Science (Second Edition). Justin Zobel. Springer ISBN-10: 1852338024 and ISBN-13:978-1852338022, 270 pages, 2004. References to the textbook are abbreviated as "WFCS".
 
-## Course Policies
+## Policies
 
 ### Grading
 
