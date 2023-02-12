@@ -1,0 +1,24 @@
+---
+name: cmpsc-580-Spring-2022-Assignment8
+break: true
+indent: 4
+---
+
+# --> check the technical writing
+README.md:
+    ConfirmFileExists
+    MatchFileFragment --fragment "Add Your Name Here" --count 0 --exact
+    MatchFileFragment --fragment "TODO" --count 0 --exact
+
+
+writing/report.md:
+    ConfirmFileExists
+    MatchFileFragment --fragment "Add Your Name Here" --count 0 --exact
+    MatchFileFragment --fragment "Add Your Account Name Here" --count 0 --exact
+    MatchFileFragment --fragment "Add Your Partner's Name Here" --count 0 --exact
+    MatchFileFragment --fragment "Add Partner's Account Name Here" --count 0 --exact
+    MatchFileFragment --fragment "TODO" --count 0 --exact
+
+
+# --> check the number of commits beyond a threshold
+CountCommits --count 3
